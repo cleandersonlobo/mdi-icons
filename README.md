@@ -1,5 +1,6 @@
 # cleandersonlobo-mdi-icons
 
+<h6>Meteor 1.4.+</h6>
 Meteor package for Material Design Icons font from Templarian (http://materialdesignicons.com/).
 
 ## Installation
@@ -32,6 +33,7 @@ See: http://github.com/Templarian/MaterialDesign/blob/master/license.txt
 ## Changelog
 
 
-### 0.0.1
+### 1.0.0
 
 - Initial release
+- Version final
