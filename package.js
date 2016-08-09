@@ -1,6 +1,6 @@
 Package.describe({
   name: 'cleandersonlobo:mdi-icons',
-  version: '1.0.1',
+  version: '1.0.3',
   summary: 'Material Design Icons font from Templarian (http://materialdesignicons.com/)',
   git: 'https://github.com/cleandersonlobo/mdi-icons.git',
   documentation: 'README.md'
@@ -8,8 +8,8 @@ Package.describe({
 
 Package.onUse(function(api) {
   api.versionsFrom('1.4.0.1');
-  api.use('ecmascript');
-  api.use("fourseven:scss@3.4.1");
+  api.use('ecmascript')
+  api.use("fourseven:scss@3.8.1");
   api.imply("fourseven:scss");
 
 
