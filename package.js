@@ -8,20 +8,10 @@ Package.describe({
 
 Package.onUse(function(api) {
   api.versionsFrom('1.4.0.1');
-  api.use('ecmascript')
-  api.use("fourseven:scss@3.8.1");
-  api.imply("fourseven:scss");
-
-
-api.addFiles([
-      'MaterialDesign-WebFont/scss/_core.scss',
-      'MaterialDesign-WebFont/scss/_extras.scss',
-      'MaterialDesign-WebFont/scss/_icons.scss',
-      'MaterialDesign-WebFont/scss/_path.scss',
-      'MaterialDesign-WebFont/scss/_variables.scss',
-      'MaterialDesign-WebFont/scss/_functions.scss',
-      'materialdesignicons.scss'
+  api.addFiles([
+    'MaterialDesign-Webfont/css/materialdesignicons.css'
   ], 'client');
+
   api.addAssets([
         'MaterialDesign-WebFont/fonts/materialdesignicons-webfont.eot',
         'MaterialDesign-WebFont/fonts/materialdesignicons-webfont.svg',

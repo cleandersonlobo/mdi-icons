@@ -11,11 +11,6 @@ meteor add cleandersonlobo:mdi-icons
 
 ## Usage
 
-First, add the following line to the top of your main scss file:
-
-```scss
-@import '{cleandersonlobo:mdi-icons}/materialdesignicons.scss';
-```
 
 Then, use the syntax below in your HTML files:
 ```html
@@ -32,8 +27,11 @@ See: http://github.com/Templarian/MaterialDesign/blob/master/license.txt
 
 ## Changelog
 
+### 1.0.4
 
-### 1.0.0
+- Remove scss
+
+### 1.0.5
 
 - Initial release
 - Version final
