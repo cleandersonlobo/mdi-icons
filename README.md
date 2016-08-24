@@ -27,11 +27,12 @@ See: http://github.com/Templarian/MaterialDesign/blob/master/license.txt
 
 ## Changelog
 
-### 1.0.4
+### 1.1.0
 
 - Remove scss
+- Add CSS
 
-### 1.0.5
+### 1.0.0
 
 - Initial release
 - Version final
