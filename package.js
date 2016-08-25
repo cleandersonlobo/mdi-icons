@@ -7,16 +7,16 @@ Package.describe({
 });
 
 Package.onUse(function(api) {
-  
+  api.versionsFrom('METEOR@1.4');
   api.addFiles([
-    'MaterialDesign-Webfont/css/materialdesignicons.css'
+    'MaterialDesign-MDI/css/materialdesignicons.css'
   ], 'client');
 
   api.addAssets([
-        'MaterialDesign-WebFont/fonts/materialdesignicons-webfont.eot',
-        'MaterialDesign-WebFont/fonts/materialdesignicons-webfont.svg',
-        'MaterialDesign-WebFont/fonts/materialdesignicons-webfont.ttf',
-        'MaterialDesign-WebFont/fonts/materialdesignicons-webfont.woff',
-        'MaterialDesign-WebFont/fonts/materialdesignicons-webfont.woff2'
+        'MaterialDesign-MDI/fonts/materialdesignicons-webfont.eot',
+        'MaterialDesign-MDI/fonts/materialdesignicons-webfont.svg',
+        'MaterialDesign-MDI/fonts/materialdesignicons-webfont.ttf',
+        'MaterialDesign-MDI/fonts/materialdesignicons-webfont.woff',
+        'MaterialDesign-MDI/fonts/materialdesignicons-webfont.woff2'
     ], 'client');
 });
