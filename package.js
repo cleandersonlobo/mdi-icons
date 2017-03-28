@@ -1,6 +1,6 @@
 Package.describe({
   name: 'cleandersonlobo:mdi-icons',
-  version: '1.1.2',
+  version: '1.2',
   summary: 'Material Design Icons font from Templarian (http://materialdesignicons.com/)',
   git: 'https://github.com/cleandersonlobo/mdi-icons.git',
   documentation: 'README.md'
