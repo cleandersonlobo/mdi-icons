@@ -27,16 +27,6 @@ See: http://github.com/Templarian/MaterialDesign/blob/master/license.txt
 
 ## Changelog
 
-### 1.1.1
+### 1.2.0
 
-- Update Material Design Icons for 1.7.12
-
-### 1.1.0
-
-- Remove scss
-- Add CSS
-
-### 1.0.0
-
-- Initial release
-- Version final
+- Update Material Design Icons for 1.8.36
